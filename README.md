@@ -1,0 +1,2 @@
+# image_captioning
+Images are major sources of data when compared to textual data. So, extracting useful information from an image can be used as input for many applications in real time the problem includes a captioning task, which requires a computer vision system to both localize and describe salient regions in images in natural language. The image captioning task comprises of object detection and finding the semantic relationship between the objects. Given a set of images and prior knowledge about the content can find the correct semantic caption for another image.
